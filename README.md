@@ -5,9 +5,9 @@ SimCity201 Project Repository - Omar Khulusi, Eric Gauderman, Yixin Cai, Ryan Hs
 
 ###Run Instructions
 
-1. Download the project to the computer using either
-"git clone git@github.com:usc-csci201-fall2013/team18.git" or 
-https://github.com/usc-csci201-fall2013/team18/archive/master.zip
+1. Download the project to the computer using
+"git clone https://github.com/okhulusi/CSCI201_Final-Project_SimCity.git" or by
+manually downloading the zip file from GitHub
 
 2. Open eclipse and create a new java project.
 Remember to include JRE System Library (JavaSE-1.7), and JUnit 4 Library
