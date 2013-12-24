@@ -1,7 +1,7 @@
-Team18 - Omar Khulusi, Eric Gauderman, Yixin Cai, Ryan Hsu, and Tanner Zigrang
+Team18
 ======
 
-SimCity201 Project Repository
+SimCity201 Project Repository - Omar Khulusi, Eric Gauderman, Yixin Cai, Ryan Hsu, and Tanner Zigrang
 
 ###Run Instructions
 
