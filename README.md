@@ -1,7 +1,7 @@
-Team18
+Team18 - Omar Khulusi, Eric Gauderman, Yixin Cai, Ryan Hsu, and Tanner Zigrang
 ======
 
-SimCity201 Project Repository for CS 201 students
+SimCity201 Project Repository
 
 ###Run Instructions
 
@@ -18,25 +18,12 @@ In "Bulid Path", choose "Use as a Source Folder"
 4. Choose MainGui.java under source/gui. Click "Run as..." and choose 
 "Java Application" to run the program.
 
-5. To run scenarios, choose the Configuration tab at the top right corner, and select a configuration. Descriptions of each scenario will be displayed.  Make sure to click the start button once you have selected a scenario.  To run a second
- scenario, we recommend you quit the program and restart so as to assure they work correctly.
+5. To run scenarios, choose the Configuration tab at the top right corner, and select a configuration. Descriptions of each scenario will be displayed.  Make sure to click the start button once you have selected a scenario.  To run a second scenario, we recommend you quit the program and restart so as to assure they work correctly.
 
-###V1 Deliverable Information
+###V2 Deliverable Information
 
 ####Work Done by Each Person
 
-- Eric Gauderman (Integration Lead/Git Lead)
-  - Person Agent (sophisticated upgrade in v2)
-  - Home Scenarios (most importantly, HomeOccupantRole)
-  - Integration, major contributor (with Omar and Yixin)
-  - Instantiation of Person Agent with the correct job and house; use of factory methods (with Yixin)
-  - Design of program's architecture (i.e. packages and class hierarchy) 
-  - Designed Directory
-  - Integrated his Restaurant (including revolving stand, market interaction, bank interaction)
-  - Implemented hacks in PersonAgent for running specific scenarios
-  - General helping with questions & issues
-  - Fixed naming conventions for v2
-  - Bug fixing
 - Omar Khulusi (Team Leader)
   - Bank Scenarios (+ Robber/GuardDog for v2)
   - Console Log integration
@@ -50,6 +37,18 @@ In "Bulid Path", choose "Use as a Source Folder"
   - Integrated his Restaurant (including revolving stand, market interaction, bank interaction)
   - Time class
   - Discussing major decisions (particularly with Eric and Yixin)
+  - Bug fixing
+- Eric Gauderman (Integration Lead/Git Lead)
+  - Person Agent (sophisticated upgrade in v2)
+  - Home Scenarios (most importantly, HomeOccupantRole)
+  - Integration, major contributor (with Omar and Yixin)
+  - Instantiation of Person Agent with the correct job and house; use of factory methods (with Yixin)
+  - Design of program's architecture (i.e. packages and class hierarchy) 
+  - Designed Directory
+  - Integrated his Restaurant (including revolving stand, market interaction, bank interaction)
+  - Implemented hacks in PersonAgent for running specific scenarios
+  - General helping with questions & issues
+  - Fixed naming conventions for v2
   - Bug fixing
 - Ryan Hsu (Art Lead)
   - Transportation (TruckAgent, BusAgent, CommuterRole)
@@ -75,6 +74,4 @@ In "Bulid Path", choose "Use as a Source Folder"
   - Bug fixing
 
 ####Known Issues
-  - 1 restaurant not integrated (Tanner)
   - No collision detection in restaurants
-  - No parties and friend scenarios because we are a group of 5. 
