@@ -50,6 +50,16 @@ In "Bulid Path", choose "Use as a Source Folder"
   - General helping with questions & issues
   - Fixed naming conventions for v2
   - Bug fixing
+- Yixin Cai (Restaurant Integration Lead, Largest Code Contributor)
+  - First to fully integrate his Restaurant, and assisted Omar/Ryan/Eric in integrating restaurants
+  - Finalized worldview (added lanes/semaphores/navigation system)
+  - Added most non-normative scenarios
+  - Workplace and person integration
+  - Market design and scenarios (including interactions with all the restaurants)
+  - Extensive Testing of city scenarios
+  - Instantiation of Person Agent with the correct job and house; use of factory methods (with Eric)
+  - Integration, major contributor (with Eric and Omar)
+  - Bug fixing
 - Ryan Hsu (Art Lead)
   - Transportation (TruckAgent, BusAgent, CommuterRole)
   - Integrating Truck and Market/Truck and Restaurant scenarios
@@ -62,16 +72,6 @@ In "Bulid Path", choose "Use as a Source Folder"
   - Bank unit testing
   - Did not integrate restaurant into team's final deliverable
   - Worked on his restaurant on his own branch
-- Yixin Cai (Restaurant Integration Lead, Largest Code Contributor)
-  - First to fully integrate his Restaurant, and assisted Omar/Ryan/Eric in integrating restaurants
-  - Finalized worldview (added lanes/semaphores/navigation system)
-  - Added most non-normative scenarios
-  - Workplace and person integration
-  - Market design and scenarios (including interactions with all the restaurants)
-  - Extensive Testing of city scenarios
-  - Instantiation of Person Agent with the correct job and house; use of factory methods (with Eric)
-  - Integration, major contributor (with Eric and Omar)
-  - Bug fixing
 
 ####Known Issues
   - No collision detection in restaurants
